@@ -15,6 +15,8 @@
 			<groupId>org.springframework.hateoas</groupId>
 			<artifactId>spring-hateoas</artifactId>
 			<version>${spring.hateoas.version}</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/spring-hateoas-${spring.hateoas.version}.jar</systemPath>
 		</dependency>
 
 		<dependency>
