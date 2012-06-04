@@ -1,6 +1,21 @@
-*.class
+.project
+.classpath
+.springBeans
+**/target/*
+**/.settings/*
+.settings/*
+*.snm
+*.log
+*.tex~
+*.*.backup
+*.aux
+*.bbl
+*.blg
+*.nav
+*.out
+*.toc
+*.vrb
+*.vrb~
+*.swp
+*.pyg
 
-# Package Files #
-*.jar
-*.war
-*.ear
